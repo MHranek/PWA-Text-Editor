@@ -8,14 +8,14 @@ This app is a text editor that works in browser, or can be installed as a stand 
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Tests](#tests)
 - [Questions](#questions)
 
 ## Installation
-You can clone the [repo](https://github.com/MHranek/PWA-Text-Editor) or just use the app from the deployed site.
+You can clone the [repo](https://github.com/MHranek/PWA-Text-Editor) or just use the app from the [deployed site](https://blooming-anchorage-27348.herokuapp.com/).
 
 ## Usage
 Type in the text editor and refresh the page, the data should still be there. You can click the install button to download the app to your computer for offline use.
+![app screenshot](assets\JATE_Screenshot.png)
 
 ## Contributing
 Github
@@ -42,9 +42,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-## Tests
-N/A
 
 ## Questions
 GitHub profile: [MHranek](https://www.github.com/MHranek)
